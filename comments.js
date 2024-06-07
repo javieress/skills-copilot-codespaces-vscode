@@ -7,3 +7,7 @@ const PORT = 3000;
 const comments = [
     {
         id: 1,
+        name: "John",
+        comment: "Hello!"
+    }
+];
